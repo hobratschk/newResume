@@ -1,0 +1,69 @@
+body {
+  background-color: #42858c;
+  color: rgb(9, 0, 29);
+  font-family: "Courier New", Courier, monospace;
+}
+
+.clear-fix {
+  overflow: auto;
+}
+
+#menu {
+  /* width: 600px; */
+  /* margin: -10px; */
+  background-color: black;
+  color: white;
+  padding: 15px;
+}
+
+#menu a {
+  color: white;
+  padding: 15px;
+}
+
+#menu a:hover {
+  background-color: darkgrey;
+}
+
+#home-page {
+  /* background-color: #42858c; */
+}
+
+#header {
+  /* margin-top: 15px; */
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.biopic {
+  float: left;
+  margin-right: 20px;
+  padding: 10px;
+  width: 200px;
+}
+
+.work-entry {
+  padding-top: 10px;
+}
+
+.work-entry a {
+  color: black;
+}
+
+.work-entry a:hover {
+  background-color: grey;
+}
+
+.education-entry {
+  padding-top: 10px;
+}
+
+.education-entry a {
+  color: black;
+}
+
+.education-entry a:hover {
+  background-color: grey;
+}
